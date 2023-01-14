@@ -1,0 +1,132 @@
+"","ONTOLOGY","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0070493","BP","GO:0070493","thrombin-activated receptor signaling pathway","1/1","11/23355",0.000470991222436212,0.00894883322629025,NA,"F2",1
+"GO:0070944","BP","GO:0070944","neutrophil-mediated killing of bacterium","1/1","11/23355",0.000470991222436212,0.00894883322629025,NA,"F2",1
+"GO:0070943","BP","GO:0070943","neutrophil-mediated killing of symbiont cell","1/1","14/23355",0.000599443374009856,0.00894883322629025,NA,"F2",1
+"GO:0070942","BP","GO:0070942","neutrophil mediated cytotoxicity","1/1","16/23355",0.000685078141725803,0.00894883322629025,NA,"F2",1
+"GO:1900016","BP","GO:1900016","negative regulation of cytokine production involved in inflammatory response","1/1","18/23355",0.000770712909441196,0.00894883322629025,NA,"F2",1
+"GO:0042730","BP","GO:0042730","fibrinolysis","1/1","19/23355",0.000813530293299225,0.00894883322629025,NA,"F2",1
+"GO:0048712","BP","GO:0048712","negative regulation of astrocyte differentiation","1/1","19/23355",0.000813530293299225,0.00894883322629025,NA,"F2",1
+"GO:0030194","BP","GO:0030194","positive regulation of blood coagulation","1/1","21/23355",0.00089916506101495,0.00894883322629025,NA,"F2",1
+"GO:1900048","BP","GO:1900048","positive regulation of hemostasis","1/1","21/23355",0.00089916506101495,0.00894883322629025,NA,"F2",1
+"GO:0050820","BP","GO:0050820","positive regulation of coagulation","1/1","24/23355",0.00102761721258837,0.00894883322629025,NA,"F2",1
+"GO:0051873","BP","GO:0051873","killing by host of symbiont cells","1/1","24/23355",0.00102761721258837,0.00894883322629025,NA,"F2",1
+"GO:0051883","BP","GO:0051883","killing of cells in other organism involved in symbiotic interaction","1/1","27/23355",0.0011560693641619,0.00894883322629025,NA,"F2",1
+"GO:0019835","BP","GO:0019835","cytolysis","1/1","28/23355",0.00119888674801971,0.00894883322629025,NA,"F2",1
+"GO:0032967","BP","GO:0032967","positive regulation of collagen biosynthetic process","1/1","31/23355",0.00132733889959336,0.00894883322629025,NA,"F2",1
+"GO:0045745","BP","GO:0045745","positive regulation of G protein-coupled receptor signaling pathway","1/1","32/23355",0.00137015628345127,0.00894883322629025,NA,"F2",1
+"GO:0010714","BP","GO:0010714","positive regulation of collagen metabolic process","1/1","34/23355",0.00145579105116678,0.00894883322629025,NA,"F2",1
+"GO:0048710","BP","GO:0048710","regulation of astrocyte differentiation","1/1","34/23355",0.00145579105116678,0.00894883322629025,NA,"F2",1
+"GO:0090218","BP","GO:0090218","positive regulation of lipid kinase activity","1/1","34/23355",0.00145579105116678,0.00894883322629025,NA,"F2",1
+"GO:0045686","BP","GO:0045686","negative regulation of glial cell differentiation","1/1","35/23355",0.00149860843502447,0.00894883322629025,NA,"F2",1
+"GO:0002446","BP","GO:0002446","neutrophil mediated immunity","1/1","37/23355",0.00158424320274042,0.00894883322629025,NA,"F2",1
+"GO:0006953","BP","GO:0006953","acute-phase response","1/1","42/23355",0.00179833012202946,0.00894883322629025,NA,"F2",1
+"GO:0051281","BP","GO:0051281","positive regulation of release of sequestered calcium ion into cytosol","1/1","42/23355",0.00179833012202946,0.00894883322629025,NA,"F2",1
+"GO:0030195","BP","GO:0030195","negative regulation of blood coagulation","1/1","48/23355",0.00205523442517663,0.00894883322629025,NA,"F2",1
+"GO:0032965","BP","GO:0032965","regulation of collagen biosynthetic process","1/1","48/23355",0.00205523442517663,0.00894883322629025,NA,"F2",1
+"GO:1900047","BP","GO:1900047","negative regulation of hemostasis","1/1","49/23355",0.00209805180903466,0.00894883322629025,NA,"F2",1
+"GO:0050819","BP","GO:0050819","negative regulation of coagulation","1/1","50/23355",0.00214086919289247,0.00894883322629025,NA,"F2",1
+"GO:0014014","BP","GO:0014014","negative regulation of gliogenesis","1/1","51/23355",0.00218368657675017,0.00894883322629025,NA,"F2",1
+"GO:0043550","BP","GO:0043550","regulation of lipid kinase activity","1/1","52/23355",0.00222650396060797,0.00894883322629025,NA,"F2",1
+"GO:1900015","BP","GO:1900015","regulation of cytokine production involved in inflammatory response","1/1","52/23355",0.00222650396060797,0.00894883322629025,NA,"F2",1
+"GO:0010712","BP","GO:0010712","regulation of collagen metabolic process","1/1","55/23355",0.00235495611218173,0.00894883322629025,NA,"F2",1
+"GO:0002534","BP","GO:0002534","cytokine production involved in inflammatory response","1/1","56/23355",0.00239777349603931,0.00894883322629025,NA,"F2",1
+"GO:0090303","BP","GO:0090303","positive regulation of wound healing","1/1","56/23355",0.00239777349603931,0.00894883322629025,NA,"F2",1
+"GO:0032964","BP","GO:0032964","collagen biosynthetic process","1/1","57/23355",0.00244059087989734,0.00894883322629025,NA,"F2",1
+"GO:0010524","BP","GO:0010524","positive regulation of calcium ion transport into cytosol","1/1","63/23355",0.00269749518304452,0.00938163597123186,NA,"F2",1
+"GO:0030193","BP","GO:0030193","regulation of blood coagulation","1/1","66/23355",0.00282594733461783,0.00938163597123186,NA,"F2",1
+"GO:0031640","BP","GO:0031640","killing of cells of other organism","1/1","66/23355",0.00282594733461783,0.00938163597123186,NA,"F2",1
+"GO:1900046","BP","GO:1900046","regulation of hemostasis","1/1","67/23355",0.00286876471847586,0.00938163597123186,NA,"F2",1
+"GO:0050818","BP","GO:0050818","regulation of coagulation","1/1","70/23355",0.00299721687004939,0.00954376950726253,NA,"F2",1
+"GO:0061045","BP","GO:0061045","negative regulation of wound healing","1/1","72/23355",0.00308285163776489,0.00956474482486031,NA,"F2",1
+"GO:1903036","BP","GO:1903036","positive regulation of response to wounding","1/1","74/23355",0.00316848640548073,0.00958467137657921,NA,"F2",1
+"GO:0014068","BP","GO:0014068","positive regulation of phosphatidylinositol 3-kinase signaling","1/1","77/23355",0.00329693855705426,0.00968603687879909,NA,"F2",1
+"GO:0051279","BP","GO:0051279","regulation of release of sequestered calcium ion into cytosol","1/1","81/23355",0.0034682080924856,0.00968603687879909,NA,"F2",1
+"GO:0002532","BP","GO:0002532","production of molecular mediator involved in inflammatory response","1/1","84/23355",0.00359666024405902,0.00968603687879909,NA,"F2",1
+"GO:0030168","BP","GO:0030168","platelet activation","1/1","85/23355",0.00363947762791694,0.00968603687879909,NA,"F2",1
+"GO:0048708","BP","GO:0048708","astrocyte differentiation","1/1","86/23355",0.00368229501177486,0.00968603687879909,NA,"F2",1
+"GO:1904427","BP","GO:1904427","positive regulation of calcium ion transmembrane transport","1/1","86/23355",0.00368229501177486,0.00968603687879909,NA,"F2",1
+"GO:0051702","BP","GO:0051702","biological process involved in interaction with symbiont","1/1","91/23355",0.00389638193106412,0.00974009847998339,NA,"F2",1
+"GO:1903035","BP","GO:1903035","negative regulation of response to wounding","1/1","91/23355",0.00389638193106412,0.00974009847998339,NA,"F2",1
+"GO:0045685","BP","GO:0045685","regulation of glial cell differentiation","1/1","94/23355",0.00402483408263776,0.00974009847998339,NA,"F2",1
+"GO:1900182","BP","GO:1900182","positive regulation of protein localization to nucleus","1/1","94/23355",0.00402483408263776,0.00974009847998339,NA,"F2",1
+"GO:0007200","BP","GO:0007200","phospholipase C-activating G protein-coupled receptor signaling pathway","1/1","99/23355",0.00423892100192669,0.00983493535663628,NA,"F2",1
+"GO:0014066","BP","GO:0014066","regulation of phosphatidylinositol 3-kinase signaling","1/1","103/23355",0.00441019053735814,0.00983493535663628,NA,"F2",1
+"GO:0010522","BP","GO:0010522","regulation of calcium ion transport into cytosol","1/1","107/23355",0.00458146007278981,0.00983493535663628,NA,"F2",1
+"GO:0002444","BP","GO:0002444","myeloid leukocyte mediated immunity","1/1","109/23355",0.00466709484050531,0.00983493535663628,NA,"F2",1
+"GO:0032963","BP","GO:0032963","collagen metabolic process","1/1","111/23355",0.00475272960822093,0.00983493535663628,NA,"F2",1
+"GO:0051209","BP","GO:0051209","release of sequestered calcium ion into cytosol","1/1","111/23355",0.00475272960822093,0.00983493535663628,NA,"F2",1
+"GO:2000379","BP","GO:2000379","positive regulation of reactive oxygen species metabolic process","1/1","111/23355",0.00475272960822093,0.00983493535663628,NA,"F2",1
+"GO:0002526","BP","GO:0002526","acute inflammatory response","1/1","112/23355",0.00479554699207885,0.00983493535663628,NA,"F2",1
+"GO:0051283","BP","GO:0051283","negative regulation of sequestering of calcium ion","1/1","112/23355",0.00479554699207885,0.00983493535663628,NA,"F2",1
+"GO:0051282","BP","GO:0051282","regulation of sequestering of calcium ion","1/1","114/23355",0.00488118175979457,0.00984371654891905,NA,"F2",1
+"GO:0051208","BP","GO:0051208","sequestering of calcium ion","1/1","116/23355",0.00496681652750997,0.00985220983325747,NA,"F2",1
+"GO:0050829","BP","GO:0050829","defense response to Gram-negative bacterium","1/1","122/23355",0.00522372083065736,0.0101263112823812,NA,"F2",1
+"GO:0014013","BP","GO:0014013","regulation of gliogenesis","1/1","125/23355",0.00535217298223079,0.0101263112823812,NA,"F2",1
+"GO:0008277","BP","GO:0008277","regulation of G protein-coupled receptor signaling pathway","1/1","127/23355",0.00543780774994651,0.0101263112823812,NA,"F2",1
+"GO:0061041","BP","GO:0061041","regulation of wound healing","1/1","129/23355",0.00552344251766246,0.0101263112823812,NA,"F2",1
+"GO:0061844","BP","GO:0061844","antimicrobial humoral immune response mediated by antimicrobial peptide","1/1","129/23355",0.00552344251766246,0.0101263112823812,NA,"F2",1
+"GO:0014065","BP","GO:0014065","phosphatidylinositol 3-kinase signaling","1/1","135/23355",0.00578034682080941,0.0104391338107155,NA,"F2",1
+"GO:0051928","BP","GO:0051928","positive regulation of calcium ion transport","1/1","139/23355",0.00595161635624086,0.0105098327063645,NA,"F2",1
+"GO:0097553","BP","GO:0097553","calcium ion transmembrane import into cytosol","1/1","140/23355",0.00599443374009856,0.0105098327063645,NA,"F2",1
+"GO:1900180","BP","GO:1900180","regulation of protein localization to nucleus","1/1","142/23355",0.00608006850781417,0.0105098327063645,NA,"F2",1
+"GO:0001909","BP","GO:0001909","leukocyte mediated cytotoxicity","1/1","145/23355",0.00620852065938793,0.0105446623093684,NA,"F2",1
+"GO:0008360","BP","GO:0008360","regulation of cell shape","1/1","154/23355",0.0065938771141083,0.0105446623093684,NA,"F2",1
+"GO:0050768","BP","GO:0050768","negative regulation of neurogenesis","1/1","160/23355",0.00685078141725548,0.0105446623093684,NA,"F2",1
+"GO:0060402","BP","GO:0060402","calcium ion transport into cytosol","1/1","161/23355",0.00689359880111318,0.0105446623093684,NA,"F2",1
+"GO:0051961","BP","GO:0051961","negative regulation of nervous system development","1/1","164/23355",0.00702205095268693,0.0105446623093684,NA,"F2",1
+"GO:0019730","BP","GO:0019730","antimicrobial humoral response","1/1","166/23355",0.00710768572040243,0.0105446623093684,NA,"F2",1
+"GO:0007596","BP","GO:0007596","blood coagulation","1/1","168/23355",0.00719332048811827,0.0105446623093684,NA,"F2",1
+"GO:0045834","BP","GO:0045834","positive regulation of lipid metabolic process","1/1","168/23355",0.00719332048811827,0.0105446623093684,NA,"F2",1
+"GO:1904064","BP","GO:1904064","positive regulation of cation transmembrane transport","1/1","168/23355",0.00719332048811827,0.0105446623093684,NA,"F2",1
+"GO:0007599","BP","GO:0007599","hemostasis","1/1","170/23355",0.007278955255834,0.0105446623093684,NA,"F2",1
+"GO:0048015","BP","GO:0048015","phosphatidylinositol-mediated signaling","1/1","170/23355",0.007278955255834,0.0105446623093684,NA,"F2",1
+"GO:1903034","BP","GO:1903034","regulation of response to wounding","1/1","170/23355",0.007278955255834,0.0105446623093684,NA,"F2",1
+"GO:0050817","BP","GO:0050817","coagulation","1/1","171/23355",0.0073217726396918,0.0105446623093684,NA,"F2",1
+"GO:1903169","BP","GO:1903169","regulation of calcium ion transmembrane transport","1/1","171/23355",0.0073217726396918,0.0105446623093684,NA,"F2",1
+"GO:0048017","BP","GO:0048017","inositol lipid-mediated signaling","1/1","173/23355",0.00740740740740753,0.0105446623093684,NA,"F2",1
+"GO:0060401","BP","GO:0060401","cytosolic calcium ion transport","1/1","183/23355",0.00783558124598593,0.0110244805902825,NA,"F2",1
+"GO:0030307","BP","GO:0030307","positive regulation of cell growth","1/1","197/23355",0.00843502461999557,0.0117314710232122,NA,"F2",1
+"GO:0010721","BP","GO:0010721","negative regulation of cell development","1/1","203/23355",0.00869192892314297,0.0119160779276388,NA,"F2",1
+"GO:0001906","BP","GO:0001906","cell killing","1/1","205/23355",0.00877756369085847,0.0119160779276388,NA,"F2",1
+"GO:2000377","BP","GO:2000377","regulation of reactive oxygen species metabolic process","1/1","207/23355",0.00886319845857431,0.0119160779276388,NA,"F2",1
+"GO:0051651","BP","GO:0051651","maintenance of location in cell","1/1","216/23355",0.00924855491329502,0.0122975290605351,NA,"F2",1
+"GO:0034764","BP","GO:0034764","positive regulation of transmembrane transport","1/1","247/23355",0.010575893812888,0.0137600338855855,NA,"F2",1
+"GO:0034767","BP","GO:0034767","positive regulation of ion transmembrane transport","1/1","247/23355",0.010575893812888,0.0137600338855855,NA,"F2",1
+"GO:0010001","BP","GO:0010001","glial cell differentiation","1/1","255/23355",0.0109184328837508,0.0140545784992963,NA,"F2",1
+"GO:0001818","BP","GO:0001818","negative regulation of cytokine production","1/1","270/23355",0.0115606936416186,0.0146792264325985,NA,"F2",1
+"GO:1903829","BP","GO:1903829","positive regulation of cellular protein localization","1/1","272/23355",0.0116463284093343,0.0146792264325985,NA,"F2",1
+"GO:0051924","BP","GO:0051924","regulation of calcium ion transport","1/1","280/23355",0.011988867480197,0.0149551852072561,NA,"F2",1
+"GO:0070588","BP","GO:0070588","calcium ion transmembrane transport","1/1","289/23355",0.0123742239349175,0.0152287161921073,NA,"F2",1
+"GO:0010959","BP","GO:0010959","regulation of metal ion transport","1/1","291/23355",0.0124598587026332,0.0152287161921073,NA,"F2",1
+"GO:0034504","BP","GO:0034504","protein localization to nucleus","1/1","301/23355",0.0128880325412116,0.0154401181929367,NA,"F2",1
+"GO:0072593","BP","GO:0072593","reactive oxygen species metabolic process","1/1","301/23355",0.0128880325412116,0.0154401181929367,NA,"F2",1
+"GO:0045927","BP","GO:0045927","positive regulation of growth","1/1","312/23355",0.0133590237636481,0.0158474693666805,NA,"F2",1
+"GO:0051235","BP","GO:0051235","maintenance of location","1/1","324/23355",0.0138728323699422,0.0162972108423593,NA,"F2",1
+"GO:0022604","BP","GO:0022604","regulation of cell morphogenesis","1/1","328/23355",0.0140441019053736,0.0163397724091366,NA,"F2",1
+"GO:0007204","BP","GO:0007204","positive regulation of cytosolic calcium ion concentration","1/1","333/23355",0.014258188824663,0.0164308652169926,NA,"F2",1
+"GO:0045861","BP","GO:0045861","negative regulation of proteolysis","1/1","342/23355",0.0146435452793834,0.0166079428247868,NA,"F2",1
+"GO:0042063","BP","GO:0042063","gliogenesis","1/1","343/23355",0.0146863626632412,0.0166079428247868,NA,"F2",1
+"GO:0042060","BP","GO:0042060","wound healing","1/1","357/23355",0.0152858060372512,0.0169556840077072,NA,"F2",1
+"GO:0019216","BP","GO:0019216","regulation of lipid metabolic process","1/1","359/23355",0.0153714408049667,0.0169556840077072,NA,"F2",1
+"GO:0050878","BP","GO:0050878","regulation of body fluid levels","1/1","360/23355",0.0154142581888247,0.0169556840077072,NA,"F2",1
+"GO:1904062","BP","GO:1904062","regulation of cation transmembrane transport","1/1","370/23355",0.0158424320274033,0.0172696781559982,NA,"F2",1
+"GO:0051480","BP","GO:0051480","regulation of cytosolic calcium ion concentration","1/1","377/23355",0.0161421537144082,0.0174225071662283,NA,"F2",1
+"GO:0032102","BP","GO:0032102","negative regulation of response to external stimulus","1/1","380/23355",0.0162706058659818,0.0174225071662283,NA,"F2",1
+"GO:0044403","BP","GO:0044403","biological process involved in symbiotic interaction","1/1","390/23355",0.01669877970456,0.0177241433706295,NA,"F2",1
+"GO:0006959","BP","GO:0006959","humoral immune response","1/1","407/23355",0.0174266752301434,0.0183358930682378,NA,"F2",1
+"GO:0006816","BP","GO:0006816","calcium ion transport","1/1","423/23355",0.0181117533718689,0.0188924323965184,NA,"F2",1
+"GO:0001558","BP","GO:0001558","regulation of cell growth","1/1","439/23355",0.0187968315135945,0.0194394582320079,NA,"F2",1
+"GO:0050767","BP","GO:0050767","regulation of neurogenesis","1/1","443/23355",0.0189681010490259,0.0194503409062045,NA,"F2",1
+"GO:0042742","BP","GO:0042742","defense response to bacterium","1/1","466/23355",0.0199529008777565,0.0202882437496515,NA,"F2",1
+"GO:0006874","BP","GO:0006874","cellular calcium ion homeostasis","1/1","480/23355",0.0205523442517663,0.0207236137871977,NA,"F2",1
+"GO:0055074","BP","GO:0055074","calcium ion homeostasis","1/1","496/23355",0.0212374223934918,0.0212374223934918,NA,"F2",1
+"GO:0062023","CC","GO:0062023","collagen-containing extracellular matrix","1/1","386/23177",0.0166544419036113,0.0166544419036113,NA,"F2",1
+"GO:0001530","MF","GO:0001530","lipopolysaccharide binding","1/1","30/22682",0.00132263468829918,0.0119037121946927,NA,"F2",1
+"GO:0008201","MF","GO:0008201","heparin binding","1/1","159/22682",0.00700996384798513,0.014350586368045,NA,"F2",1
+"GO:0004252","MF","GO:0004252","serine-type endopeptidase activity","1/1","186/22682",0.00820033506745443,0.014350586368045,NA,"F2",1
+"GO:0008236","MF","GO:0008236","serine-type peptidase activity","1/1","207/22682",0.00912617934926352,0.014350586368045,NA,"F2",1
+"GO:0017171","MF","GO:0017171","serine hydrolase activity","1/1","212/22682",0.00934661846398022,0.014350586368045,NA,"F2",1
+"GO:0005539","MF","GO:0005539","glycosaminoglycan binding","1/1","217/22682",0.00956705757869669,0.014350586368045,NA,"F2",1
+"GO:1901681","MF","GO:1901681","sulfur compound binding","1/1","265/22682",0.0116832730799751,0.0150213511028251,NA,"F2",1
+"GO:0004175","MF","GO:0004175","endopeptidase activity","1/1","453/22682",0.019971783793316,0.0207212767833523,NA,"F2",1
+"GO:0008047","MF","GO:0008047","enzyme activator activity","1/1","470/22682",0.0207212767833523,0.0207212767833523,NA,"F2",1
